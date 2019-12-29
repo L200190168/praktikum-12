@@ -1,0 +1,14 @@
+print("<!DOCTYPE html>\n")
+print("""<html>
+<head><title>Akses dengan SimpleHTTPRequestHadler</title></head>
+<body><h3>Bangun Geometri</h3>""")
+sisi 1 = 10
+sisi 2 = 10
+luas = s*s
+print ("""<table><tr><td>Nama Bangunan</td><td>:</td>Persegi</td></tr>
+                 <tr><td>Dimensi</td><td>:</td><td>2D</td></tr>
+                 <tr><td>Rumus luas</td><td>:</td><td>sisi 1*sisi 2</td></tr>""")
+print("""<tr><td>Parameter 1</td><td>:</td><td>(0)</td></tr>""".format(sisi 1))
+print("""<tr><td>Parameter 2</td><td>:</td><td>(0)</td></tr>""".format(sisi 2))
+print("""<tr><td>Luas</td><td>:</td><td>(0)</td></tr></table>""".format(luas))
+print("""<script>var c = document.grtElementById("myCanvas")<10:58 AM 12/26/201910:58 AM 12/26/2019/script></body></html>"""))

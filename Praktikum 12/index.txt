@@ -1,0 +1,9 @@
+print("<!DOCTYPE html>\n")
+print("""<html>
+<head><title>Akses dengan SimpleHTTPRequestHadler</title></head>
+<body><h3>Data Diri Mahasiswa</h3>""")
+print("""<table><tr><td>Nama</td><td>:</td><td>Imawan Luthfi Pambudi</td></tr>
+		<tr><td>Tempat, tanggal lahir</td><td>:</td><td>Karanganyar, 31 mei 2000</td></tr>
+		<tr><td>Tempat wisata favorit</td><td>:</td><td>Gunung</td></tr>
+		<tr><td>Motto</td><td>:</td><td>Eling kuat slamet</td></tr></table>""")
+print("</body></html>")
